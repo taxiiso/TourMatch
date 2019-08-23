@@ -2,9 +2,9 @@
 
 // データベースに接続する関数
 class DbConnect {
-	private $dsn = "mysql:dbname=_tourmutch_db;host=mysql006.phy.heteml.lan;charset=utf8;";
-	private $dbuser = "_tourmutch_db";
-	private $dbpass = "tourmutch01";
+	private $dsn = "mysql:dbname=hogehoge;host=hogehoge;charset=utf8;";
+	private $dbuser = "hogehoge";
+	private $dbpass = "hogehoge";
 	private $conn;
 
 	function __construct() {
