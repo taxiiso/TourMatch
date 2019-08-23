@@ -1,0 +1,9 @@
+
+# BEGIN-HTACCESS-214535
+# このBEGIN-ENDはヘテムルコントロールパネルから挿入されました。編集しないようにお願いします。
+AuthUserFile /home/users/0/taxiiso/web/taxi-world.work/tourmatch/.htpasswd
+AuthGroupFile /dev/null
+AuthName "アカウント名：201908、　パスワード:201908を入力して下さい。"
+AuthType Basic
+require valid-user
+# END-HTACCESS-214535
